@@ -1,0 +1,9 @@
+name: CloudSystem
+version: 2.0
+api: [4.0.0]
+main: Sign\CloudSystem\CloudSystem
+description: CloudSystem
+commands: /cloud sign
+  cloud:
+    description: CloudSystem Command
+    aliases: [cloudsystem]
