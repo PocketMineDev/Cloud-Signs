@@ -1,8 +1,8 @@
 name: CloudSystem
 version: 2.0.0
+author: "Nils", "SkyZoneMC"
 api: 3.0.2
 main: Sign\CloudSystem\CloudSystem
-author: ["Nils", "SkyZoneMC"]
 description: CloudSytem
 commands: /cloud sign
   cloud:
