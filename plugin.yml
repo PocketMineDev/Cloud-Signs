@@ -4,7 +4,6 @@ api: 3.0.2
 main: Sign\CloudSystem\CloudSystem
 author: ["Nils", "SkyZoneMC"]
 description: CloudSytem
-website: http://AtomicMC.tk
 commands: /cloud sign
   cloud:
     description: CloudSystem Command
