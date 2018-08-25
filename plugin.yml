@@ -2,7 +2,9 @@ name: CloudSystem
 version: 2.0.0
 api: 3.0.2
 main: Sign\CloudSystem\CloudSystem
-description: CloudSystem
+author: SkyZoneMC
+description: CloudSytem
+website: http://AtomicMC.tk
 commands: /cloud sign
   cloud:
     description: CloudSystem Command
